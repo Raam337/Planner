@@ -22,6 +22,11 @@ header {
   padding: 60px;
 }
 
+#currentDay{
+  transition: color 1s ease-in-out;
+  font-size: 36px;
+}
+
 .description {
   white-space: pre-wrap;
 }
